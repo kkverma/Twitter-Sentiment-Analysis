@@ -13,13 +13,13 @@ In simple terms, it involves classifying a piece of text as positive, negative o
 
 1. Understand the Problem Statement
 2. Tweets Preprocessing and Cleaning
-          -Data Inspection
-          -Data Cleaning
+    -Data Inspection
+    -Data Cleaning
 3. Story Generation and Visualization from Tweets
 4. Extracting Features from Cleaned Tweets
-          -Bag-of-Words
-          -TF-IDF
-          -Word Embeddings
+    -Bag-of-Words
+    -TF-IDF
+    -Word Embeddings
 5. Model Building: Sentiment Analysis
             -Logistic Regression
             -Support Vector Machine
@@ -29,6 +29,6 @@ In simple terms, it involves classifying a piece of text as positive, negative o
 7. Summary
 
 # Tools 
-  -Anaconda 
-  -Jupyter Notebook 
-  -Python Libraries(pandas,Numpy,seaborn matplotlib,re..etc)
+   -Anaconda 
+   -Jupyter Notebook 
+   -Python Libraries(pandas,Numpy,seaborn matplotlib,re..etc)
