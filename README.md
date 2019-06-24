@@ -15,7 +15,7 @@ In simple terms, it involves classifying a piece of text as positive, negative o
 2. Tweets Preprocessing and Cleaning
    - Data Inspection
    - Data Cleaning
-![alternativetext](images/data cleaning.png)  
+ 
    
 3. Story Generation and Visualization from Tweets
 4. Extracting Features from Cleaned Tweets
